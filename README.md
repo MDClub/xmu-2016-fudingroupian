@@ -18,3 +18,7 @@
   * 眼冒桃心![](eye.jpg) <br><br>
   * 戴帽子![](hat.jpg) <br><br>
   * 戴假发![](wig.jpg) <br><br>
+
+magicface.exe    为可执行文件，可以直接运行。<br><br>
+/ProcessFace/VideoEffects.cpp     为特效实现代码<br><br>
+/ProcessFace/processface.cpp       为可视化界面代码<br><br>
